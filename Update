@@ -1,14 +1,11 @@
 {
-  "versionCode": 21474836,
-  "versionName": "2.25.15",
-  "Msg": "New update is available, to continue in our app please update it.
+  "versionCode": 2147483647,
+  "versionName": "2.25.36.70",
+  "Msg": "GBWhatsApp_RM V15.20
 
-What's new:
-- Performance Improvements.
-- Bug Fixes.
-- New Features introduced.
-- Others minor changes.
-
-Thanks for using",
-  "downloadLink": "https://t.me/@smalicode"
-  }
+✅ Fixed the send message to an unsaved number feature ✉️
+✅ Fixed an issue where the admin icon did not appear next to text messages on some devices 👑
+✅ Fixed an issue where unviewed status colors did not change 🎨
+✅ Fixed an issue where the appearance of sticker bubbles and single emoji messages did not update 💬😀.",
+  "downloadLink": "https://youtu.be/8b-yh3YNTO0"
+}
